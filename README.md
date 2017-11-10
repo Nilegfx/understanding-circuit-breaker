@@ -1,2 +1,2 @@
-# understanding-circuit-breaker
-understanding circuit breakers
+# understanding-circuit-breakers
+- [x] Understand [hystrixjs](https://www.npmjs.com/package/hystrixjs)
